@@ -21,13 +21,22 @@ A powerful, unified, and interactive terminal-based installer for Linux applicat
 ---
 
 ## 📸 Screenshots
-https://github.com/Warren-15/Linux_app_manager/blob/main/Screens/1%20-%20main.jpg?raw=true
+<img width="830" height="710" alt="image" src="https://github.com/user-attachments/assets/15a1abe4-07b1-4850-8e49-7784f7151621" />
+<img width="830" height="530" alt="image" src="https://github.com/user-attachments/assets/5dacca9d-ff96-4382-84d4-5eda45680458" />
+<img width="1360" height="900" alt="image" src="https://github.com/user-attachments/assets/dfc4ad4c-8d51-4509-be5f-a782a9c7ef85" />
+<img width="1010" height="620" alt="image" src="https://github.com/user-attachments/assets/41ce1387-cf2d-4351-acce-1d2e0615e964" />
+<img width="1625" height="821" alt="image" src="https://github.com/user-attachments/assets/3144b3ac-6636-453d-ab1e-b3a502851694" />
+<img width="870" height="655" alt="image" src="https://github.com/user-attachments/assets/cad399bc-ec1c-4401-8d00-a2c6e3850d78" />
+<img width="970" height="980" alt="image" src="https://github.com/user-attachments/assets/ad9f11a6-bce2-4ac0-8e9c-9e8816380002" />
+<img width="870" height="650" alt="image" src="https://github.com/user-attachments/assets/7e595e21-889e-4cb7-81fc-c973077eb5fe" />
+
+
 
 
 ## 🚀 Installation
 
 ### Prerequisites
-- A Debian-based Linux distribution (Ubuntu, Mint, Pop!_OS, Debian, etc.)
+- A Debian-based Linux distribution (Mint)
 - Basic tools: `bash`, `curl`, `jq`, `wget`, `tar`, `unzip`
 
 ### 1. Clone the Repository
