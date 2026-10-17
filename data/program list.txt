@@ -1,0 +1,118 @@
+# ==============================================================================
+# APPLICATIONS MANAGER - PROGRAM LIST (FINAL - 100% WORKING)
+# ==============================================================================
+
+
+# ==============================================================================
+# ACCESSORIES
+# ==============================================================================
+Flameshot	Accessories	Screenshot and annotation	AppImage	github	flameshot-org/flameshot
+CopyQ	Accessories	Advanced clipboard manager	AppImage	github	hluk/CopyQ
+Ksnip	Accessories	Screenshot annotation	AppImage	github	ksnip/ksnip
+KeePassXC	Accessories	Password manager	AppImage	github	keepassxreboot/keepassxc
+Cryptomator	Accessories	Encrypted cloud storage	AppImage	github	cryptomator/cryptomator
+PeaZip	Accessories	Advanced archive manager	zip	github	peazip/PeaZip
+FSearch	Accessories	Instant file search	flatpak	flatpak	io.github.cboxdoerfer.FSearch
+Gwenview	Accessories	Quick image viewer	flatpak	flatpak	org.kde.gwenview
+Xournalpp	Accessories	PDF annotation	AppImage	github	xournalpp/xournalpp
+
+# ==============================================================================
+# AUDIO
+# ==============================================================================
+LMMS	Audio	Music production workstation	AppImage	github	LMMS/lmms
+Audacity	Audio	Audio editor	AppImage	github	audacity/audacity
+MuseScore	Audio	Sheet music notation	AppImage	github	musescore/MuseScore
+Spotube	Audio	Spotify client (no premium)	AppImage	github	KRTirtho/spotube
+
+# ==============================================================================
+# BURN & FLASH
+# ==============================================================================
+BalenaEtcher	Burn & Flash	Bootable USB maker	AppImage	github	balena-io/etcher
+Ventoy	Burn & Flash	Multi-ISO boot USB	tar.gz	github	ventoy/Ventoy
+Brasero	Burn & Flash	CD/DVD burning tool	flatpak	flatpak	org.gnome.Brasero
+
+# ==============================================================================
+# GAMES
+# ==============================================================================
+Heroic Games Launcher	Games	Epic/GOG launcher	AppImage	github	Heroic-Games-Launcher/HeroicGamesLauncher
+Prism Launcher	Games	Minecraft launcher	AppImage	github	PrismLauncher/PrismLauncher
+OpenMW	Games	Open-source Morrowind engine	tar.gz	github	OpenMW/openmw
+OpenRCT2	Games	RollerCoaster Tycoon 2 remake	AppImage	github	OpenRCT2/OpenRCT2
+Mesen	Games	High-accuracy NES/Famicom emulator	zip	direct	https://github.com/SourMesen/Mesen2/releases/download/2.1.1/Mesen_2.1.1_Linux_x64.zip
+DuckStation	Games	PlayStation 1 emulator	AppImage	github	stenzek/duckstation
+Dolphin	Games	GameCube/Wii emulator	flatpak	flatpak	org.DolphinEmu.dolphin-emu
+shadPS4	Games	PlayStation 4 emulator	zip	github	shadps4-emu/shadPS4
+Azahar	Games	Nintendo 3DS emulator	AppImage	github	azahar-emu/azahar
+Flycast	Games	Dreamcast/Naomi emulator	AppImage	github	flyinghead/flycast
+RPCS3	Games	PlayStation 3 emulator	flatpak	flatpak	net.rpcs3.RPCS3
+
+# ==============================================================================
+# GRAPHICS
+# ==============================================================================
+ArtCraft Launcher	Graphics	ArtCraft apps launcher	AppImage	github	storytold/craft-launcher
+Inkscape	Graphics	Vector graphics	flatpak	flatpak	org.inkscape.Inkscape
+GIMP	Graphics	Raster image editor	tar.bz2	folder	https://download.gimp.org/mirror/pub/gimp/v2.10/
+Krita	Graphics	Digital painting	flatpak	flatpak	org.kde.krita
+Blender	Graphics	3D creation suite	AppImage	folder	https://download.blender.org/release/
+SynfigStudio	Graphics	2D vector animation	AppImage	github	synfig/synfig
+Friction	Graphics	2D vector animation	AppImage	github	friction2d/friction
+MyPaint	Graphics	Infinite canvas painting	AppImage	github	mypaint/mypaint
+Darktable	Graphics	RAW photo workflow	AppImage	github	darktable-org/darktable
+Pixelorama	Graphics	Pixel art with animation	tar.gz	github	Orama-Interactive/Pixelorama
+PhotoFlare	Graphics	Fast image editor	AppImage	github	PhotoFlare/photoflare
+FreeCAD	Graphics	Parametric 3D CAD modeler	AppImage	github	FreeCAD/FreeCAD
+LibreSprite	Graphics	Animated sprite editor	zip	github	LibreSprite/LibreSprite
+XnView MP	Graphics	Image viewer and organizer	flatpak	flatpak	com.xnview.XnViewMP
+
+# ==============================================================================
+# INTERNET
+# ==============================================================================
+Motrix	Internet	Download manager	AppImage	github	agalwood/Motrix
+Ferdium	Internet	All-in-one messaging app	AppImage	github	ferdium/ferdium-app
+RustDesk	Internet	Remote desktop software	AppImage	github	rustdesk/rustdesk
+qBittorrent-Enhanced-Edition	Internet	Bittorrent client with enhancements	AppImage	github	c0re100/qBittorrent-Enhanced-Edition
+LocalSend	Internet	Local file sharing network	AppImage	github	localsend/localsend
+WeChat	Internet	Messaging app	AppImage	direct	https://dldir1v6.qq.com/weixin/Universal/Linux/WeChatLinux_x86_64.AppImage
+
+# ==============================================================================
+# OFFICE & TEXT
+# ==============================================================================
+Joplin	Office & Text	Note-taking and to-do app	AppImage	github	laurent22/joplin
+Zettlr	Office & Text	Markdown editor for research	AppImage	github	Zettlr/Zettlr
+Mark Text	Office & Text	Real-time preview markdown editor	AppImage	github	marktext/marktext
+Obsidian	Office & Text	Knowledge base notes	AppImage	direct	https://obsidian.md/download
+LibreOffice	Office & Text	Office suite	apt	apt	libreoffice
+OnlyOffice	Office & Text	Office suite	AppImage	github	ONLYOFFICE/appimage-desktopeditors
+
+# ==============================================================================
+# PROGRAMMING
+# ==============================================================================
+Godot	Programming	Game engine	tar.xz	github	godotengine/godot
+VSCodium	Programming	VS Code without telemetry	AppImage	github	VSCodium/vscodium
+Lapce	Programming	Lightning-fast code editor	AppImage	github	lapce/lapce
+Zed	Programming	High-performance code editor	flatpak	flatpak	dev.zed.Zed
+Geany	Programming	Lightweight IDE	apt	apt	geany
+DBeaver	Programming	Universal database manager	AppImage	github	dbeaver/dbeaver
+CudaText	Programming	Lightweight code editor	flatpak	flatpak	io.github.cudatext.CudaText-Qt
+Bruno	Programming	Offline-first API client	AppImage	github	usebruno/bruno
+
+# ==============================================================================
+# SOUND & VIDEO
+# ==============================================================================
+Shotcut	Sound & Video	Video editor	AppImage	github	mltframework/shotcut
+OpenShot	Sound & Video	Video editor	AppImage	github	OpenShot/openshot-qt
+LosslessCut	Sound & Video	Lossless video/audio cutting	AppImage	github	mifi/lossless-cut
+Flowblade	Sound & Video	Professional nonlinear video editor	flatpak	flatpak	io.github.jliljebl.Flowblade
+HandBrake	Sound & Video	Video transcoder	AppImage	github	HandBrake/HandBrake
+Olive	Sound & Video	Experimental modern video editor	flatpak	flatpak	org.olivevideoeditor.Olive
+SubtitleEdit	Sound & Video	Subtitle editor	AppImage	github	SubtitleEdit/subtitleedit
+XnConvert	Sound & Video	Batch image converter and resizer	flatpak	flatpak	com.xnview.XnConvert
+tinyMediaManager	Sound & Video	Movie/TV library manager	tar.xz	folder	https://archive.tinymediamanager.org/v5.2.4/
+
+# ==============================================================================
+# SYSTEM
+# ==============================================================================
+GParted	System	Partition editor	apt	apt	gparted
+Stacer	System	System optimizer	AppImage	github	oguzhaninan/Stacer
+CPU-X	System	Low-level hardware information tool	AppImage	github	X0rg/CPU-X
+Bottles	System	Portable Wine environment manager	flatpak	flatpak	com.usebottles.bottles

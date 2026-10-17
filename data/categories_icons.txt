@@ -1,0 +1,12 @@
+3D|blender|modeling=applications-graphics
+flash|usb|burn|iso|boot=system-run
+audio|music|sound|midi=applications-multimedia
+video|film|movie|edit=applications-multimedia
+dev|coding|ide|programming=applications-development
+game|emulator|steam=applications-games
+office|doc|pdf|text=applications-office
+web|internet|browser|chat=applications-internet
+photo|image|paint|draw=applications-graphics
+system|admin|monitor|disk=applications-system
+script|Scripts|shell|terminal=utilities-terminal
+wine|windows=applications-other
