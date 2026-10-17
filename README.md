@@ -47,13 +47,13 @@ cd applications-manager
 
 ### 2. Make it Executable
 ```bash
-chmod +x install_app.sh
+chmod +x app_manager.sh
 ```
 
 ### 3. Run the Manager
 *(The script requires `sudo` to install apps to `/Applications` and system directories)*
 ```bash
-sudo ./install_app.sh
+sudo ./app_manager.sh
 ```
 
 ---
