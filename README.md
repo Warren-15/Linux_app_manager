@@ -1,4 +1,3 @@
-إليك ملف `
 # 🐧 Applications Manager for Linux
 
 A powerful, unified, and interactive terminal-based installer for Linux applications. 
