@@ -21,7 +21,7 @@ A powerful, unified, and interactive terminal-based installer for Linux applicat
 ---
 
 ## 📸 Screenshots
-
+https://github.com/Warren-15/Linux_app_manager/blob/main/Screens/1%20-%20main.jpg?raw=true
 
 
 ## 🚀 Installation
